@@ -1,0 +1,188 @@
+/* .App {
+  text-align: center;
+}
+body{
+    /* background-image: url('pexels-photo-196644.jpeg'); */
+    /* background-repeat: no-repeat;
+    background-color:  #e8e8e8;
+    background-size: cover;
+    height: 100%;
+} 
+
+#b{
+  opacity: 0.99;
+}
+#b:hover{
+  opacity: 1;
+}
+.navigation__group{
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  font-size: large;
+}
+.navigation__group:hover{
+  transform: scale(1.1);
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width: 150px;
+  text-align: center;
+  font-family: arial;
+  height: 265px;
+  display: inline-flex;
+  opacity: 0.93;
+transition-timing-function: ease-in-out;
+}
+.card:hover{
+  opacity: 1;
+  cursor: pointer;
+}
+
+.p{
+  font-size: 9px;
+}
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 9px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+button:hover, a:hover {
+  opacity: 0.7;
+}
+.an{
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 9px;
+}
+#an:hover{
+  opacity: 0.7;
+}
+
+/* ------------------------------------------- Foooter ----------------------------------------- */
+/* #footer {
+  justify-content: center;
+  height: 415px;
+  width: 100%;
+
+  
+}
+#sample{
+  justify-content: space-evenly;
+  height: 40vh; */
+  /* height: 260px; */
+/* }
+
+.card:hover{
+  height: 250px;
+  width: 150px;
+  transform:scale(1.1);
+  align-self: center;
+  justify-self: center;
+  border: none;
+  border-radius: 10px;
+  transition: 0.6s;
+  margin-top: 0px; */ 
+/* } */
+
+
+/* FOOTER */
+/* Reset some default styles to improve consistency */
+/* .h2{
+  margin: 0;
+  padding: 0;
+  font-size: 15px;
+} */
+
+/* Apply styles to the footer */
+/* footer {
+  background-color: #f0f0f0;
+  padding: 30px;
+  text-align: center;
+  color: #333;
+} */
+
+/* Style the heading */
+/* #h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+} */
+
+/* Style the instructions */
+/* #h3 {
+  font-size: 18px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+} */
+
+/* Style the numbered list */
+/* #ol {
+  text-align: left;
+  margin-left: 40px;
+  font-size: 16px;
+} */
+
+/* Style the list items */
+/* #ol li {
+  margin-bottom: 10px;
+}
+ */
+/* Highlight the strong text (e.g., "Rating:", "Specific Feedback:") */
+/* strong {
+  color: #007bff;
+} */
+
+/* Style the privacy policy paragraph */
+/* footer p:last-child {
+  margin-top: 20px;
+  font-size: 14px;
+  color: #666;
+} */
+
+/* Style the "Submit" button */
+/* input[type="submit"] {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+input[type="submit"]:hover {
+  background-color: #0056b3;
+} */
+
+
+/* Feedback Form Css */
+/* .navbar-dark .navbar-nav .nav-link {
+  color: #fff;
+}
+
+.disnone{
+  display:none;
+} */ 

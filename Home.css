@@ -1,0 +1,119 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    /* background-color:aqua; */
+    background-image: url('pexels-photo-196644.jpeg');
+  }
+
+  .center{
+    justify-content: center;
+  }
+  /* #mit{
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 75px;
+    
+    /* height: 150px;
+    width: 100px; */
+  #mit{
+    text-align: center;
+    margin-top: -120px;
+    margin-left: 75px;
+  }
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 87vh;
+    width: 100%;
+    margin-top: 30px;
+    background-color: #f0f0f0;
+    background-repeat: no-repeat;
+    /* background-color:  #e8e8e8; */
+    /* background-color:silver; */
+    background-size: cover;
+    
+  }
+
+  .fcard{
+  /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); */
+  width: 100px;
+  text-align: center;
+  font-family: arial;
+  height: 150px;
+  display: inline-flex;
+  opacity: 0.93;
+  }
+  .left-side, .right-side {
+    width: 50%;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+  }
+  
+  .left-side {
+    /* margin-right: 20px; */
+    height: 75%;
+  }
+  
+  .right-side {
+    
+    background-color: #f9f9f9;
+    height: 75%;
+  }
+  
+  h2 {
+    margin-bottom: 20px;
+  }
+  
+  .rating {
+    unicode-bidi: bidi-override;
+    direction: rtl;
+    display: inline-block;
+  }
+  
+  .rating > input {
+    display: none;
+  }
+  
+  .rating > label {
+    float: right;
+    cursor: pointer;
+    padding: 0 3px;
+    font-size: 24px;
+  }
+  
+  .rating > label:before {
+    content: "\2605";
+  }
+  
+  .rating > input:checked ~ label:before {
+    content: "\2605";
+    color: #ffc107;
+  }
+  
+  input[type="number"], textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  input[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #0056b3;
+  }
+  
